@@ -6,5 +6,4 @@ client_scripts {
 
 server_scripts {
 	'shared.js',
-	'server/server.js'
 }
